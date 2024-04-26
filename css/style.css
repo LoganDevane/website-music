@@ -50,11 +50,11 @@
     border: black;
   }
   body {
-    background-color: gray;
+    background-color: rgb(40, 114, 86);
   }
   .parallax {
 
-    background-image: url("../img/drakealbumsranked.jpg");
+    background-image: url("");
 
     min-height: 500px;
 
@@ -71,7 +71,7 @@
   
   
   .title{
-  background-color: #918c8c;
+  background-color: #361c1c;
   border-radius: 50px;
   
   }
@@ -91,7 +91,7 @@
   }
   
   .product {
-  background-color: #b9b3b3;
+  background-color: #3f1a1a;
   margin: 10px;
   padding: 20px;
   text-align: center;
