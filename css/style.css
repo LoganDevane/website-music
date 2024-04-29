@@ -17,14 +17,14 @@
   
   .logo {
     font-size: 35px;
-    color: #a80d0d;
+    color: #BE1E2D;
     text-decoration: none;
     font-weight: 700;
   }
   .navbar a {
     position: relative;
     font-size: 18px;
-    color: #000000;
+    color: #BE1E2D;
     font-weight: 500;
     text-decoration: none;
     margin-left: 40px;
@@ -37,7 +37,7 @@
     width: 0;
     left: 0;
     height: 2px;
-    background: #d3e01a;
+    background: #72BAD5;
     transition: .3s;
   }
   
@@ -48,9 +48,9 @@
   .img-fluid {
     max-height: 100%;
     border: black;
-  }
+  } 
   body {
-    background-color: rgb(40, 114, 86);
+    background-color: rgb(14, 76, 109);
   }
   .parallax {
 
@@ -66,7 +66,6 @@
   
   .h1 {
     color: azure;
-   
   }
   
   
